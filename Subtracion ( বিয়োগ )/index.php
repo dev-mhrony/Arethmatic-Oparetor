@@ -19,7 +19,7 @@
     // Above two $a and $b are the two variables whose values are given.
 
 
-    echo = $a - $b ;
+    echo $a - $b ;
  
     //The results are being printed or seen by echoing here.
 
