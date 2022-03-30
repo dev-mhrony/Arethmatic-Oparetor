@@ -11,8 +11,8 @@
 
 <?php
 
-    $a = 10;
-    $b = 20;
+    $a = 50;
+    $b = 10;
 
      // Above two $a and $b are the two variables whose values are given.
 
