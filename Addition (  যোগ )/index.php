@@ -13,8 +13,8 @@
 
     $a = 10;
     $b = 20;
-
-    // Above দুই a and $ b are the two variables whose values are given.
+    
+   // Above two $a and $b are the two variables whose values are given.
 
 
     echo $a + $b ;
